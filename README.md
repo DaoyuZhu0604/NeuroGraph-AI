@@ -56,16 +56,6 @@ PoseEstimation-HealthAI/
 - PyTorch ≥ 2.0
 - pip or conda
 
-### 💾 Setup
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/PoseEstimation-HealthAI.git
-cd PoseEstimation-HealthAI
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ---
 
 ## 🧪 Configuration
